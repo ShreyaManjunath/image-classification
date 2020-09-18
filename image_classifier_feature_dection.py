@@ -64,5 +64,7 @@ while True:
     cv2.imshow("img2",imgOriginal)
     cv2.waitKey(1)            #if 0 then only runs for 1ms
 
+    a1=10
+
 
 
